@@ -1,5 +1,5 @@
 $:.push File.expand_path("../lib", __FILE__)
-require "lib/version"
+require "version"
 require "date"
 
 Gem::Specification.new do |gem|
